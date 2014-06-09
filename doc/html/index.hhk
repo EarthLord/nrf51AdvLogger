@@ -1,0 +1,1088 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00024.html#a16323f44d2b5b11ef3972f71339cbd39"><param name="Name" value="__SYSTEM_CLOCK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga7913006d03165f965e16014ef223d336"><param name="Name" value="_write"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga7913006d03165f965e16014ef223d336"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga7913006d03165f965e16014ef223d336"><param name="Name" value="uart_nrf.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html"><param name="Name" value="adv-observer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac691cefd480d45a02b3dcd198cecf98b"><param name="Name" value="adv_seg_print"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gab8732a98b863fcb834bc22f9a570ccb9"><param name="Name" value="collect_packet"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae846c5fdd89ba365afcbdd1eb83b42f7"><param name="Name" value="LOGGER_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga2695c8d0d1801e72d7b2444d551e8254"><param name="Name" value="MAX_PDU_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga5358036fb07f13befea0ab1e2f5eee65"><param name="Name" value="obsvr_begin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga4a3d214ffae8823711529395209c1926"><param name="Name" value="obsvr_interval"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga130dc969e4bc0160d97eed48b879c0ff"><param name="Name" value="obsvr_radio_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga73bcdcdd55654b8791b54de676992dc4"><param name="Name" value="obsvr_req"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga9038a6fa4a99ac5283e3e6d6ae0e9b6c"><param name="Name" value="obsvr_window"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga8f9df41e1f6dc36933cac7c48c785a15"><param name="Name" value="packet_count"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaf34352d9e31f73c6b0dd772606515f0f"><param name="Name" value="packets"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga4374e536fd7dede831225adc0e303c3a"><param name="Name" value="pdu"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga58ff9d2a7ec98b0ea091905504a58808"><param name="Name" value="print_collected"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga8a6d7efd6ddd5bef836de5dc3bffa134"><param name="Name" value="RADIO_IRQHandler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga48f282bc8f1d66f858ef352dce15a10a"><param name="Name" value="rssi"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga94ae66ba8697786c3808790a66153c65"><param name="Name" value="SCAN_INTERVAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga71823c896e80fe04581f214521a901de"><param name="Name" value="SCAN_WINDOW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga0faf84ebd2908af31544bd8d32847a75"><param name="Name" value="SET_BIT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae9a4295873bc94cb78b22fe7cc743ccb"><param name="Name" value="TYPE_ADV_DIRECT_IND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gace47ff5dbae44c09f6f42f5af68fce1c"><param name="Name" value="TYPE_ADV_IND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gafc90f7d17e671fd6bdc018679726e773"><param name="Name" value="TYPE_ADV_NONCONN_IND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga3038c65f476d576d80cfd32208588438"><param name="Name" value="TYPE_ADV_SCAN_IND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga7393ce5f357b82cbfd3b60fdeeb60b11"><param name="Name" value="TYPE_APPEARANCE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaba641dd050555f1a491b644ce583be2c"><param name="Name" value="TYPE_CONNECT_REQ"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gab54bcd21e6099ce3a73e65db7924dd71"><param name="Name" value="TYPE_CONNINTERVAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga68e8af3504ec313bb9b1891eb0a507dd"><param name="Name" value="TYPE_FLAGS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga551deb07a8ecd403b414658705dabba5"><param name="Name" value="TYPE_MANUFACTURER_SPECIFIC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaa456af39a1f536609e30b2bb0c1bbc14"><param name="Name" value="TYPE_NAME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga40e056bfd32f17e3e29c02872a0b6a0f"><param name="Name" value="TYPE_NAME_SHORT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gafa4274e680761a15632f64c2f17e6ad9"><param name="Name" value="TYPE_SCAN_REQ"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaec6344359499fd3545334abb07a4a741"><param name="Name" value="TYPE_SCAN_RSP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gad708ab7e79f997f3f888bdaec280c309"><param name="Name" value="TYPE_SERVICE_SOLICITATION128"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gacf6bf77e07f7a0424b42d723bfa3f606"><param name="Name" value="TYPE_SERVICE_SOLICITATION16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga3448f6313f81115dae99f3b12b8c109e"><param name="Name" value="TYPE_SERVICEDATA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac094872c3935b30df9b3e5f53c8bb537"><param name="Name" value="TYPE_TRANSMITPOWER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga142bb4577abfd0026a186bcc6e324dfc"><param name="Name" value="TYPE_UUID128"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac3ea3b10ca0808e1d6fd82b2774c57e4"><param name="Name" value="TYPE_UUID128_INC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga2384300adfa21e9ab50ae3b014a56ae5"><param name="Name" value="TYPE_UUID16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gad98eaf47fef05d63cc326adf4c384ade"><param name="Name" value="TYPE_UUID16_INC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga496a9f209d5b4e4516bcba3351509624"><param name="Name" value="TYPE_UUID32"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae07b6571d948f6676a39b56eab5a566b"><param name="Name" value="TYPE_UUID32_INC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac691cefd480d45a02b3dcd198cecf98b"><param name="Name" value="adv_seg_print"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac691cefd480d45a02b3dcd198cecf98b"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac691cefd480d45a02b3dcd198cecf98b"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html"><param name="Name" value="BLE Observer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html"><param name="Name" value="Board Configuration"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html"><param name="Name" value="board-config"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga9c778301b9beda6db6746a84310eab58"><param name="Name" value="CTS_PIN_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga51e7b9a81c7a8cf41c6b26e1ff1b547a"><param name="Name" value="HWFC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gad3fcc238e30bb8d06f0017a34b9f7455"><param name="Name" value="LED_RGB_BLUE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga554130276787d7ef8a66507a0886784c"><param name="Name" value="LED_RGB_GREEN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga07af4af4e066d6259e9b2ebf5dbef1b0"><param name="Name" value="LED_RGB_RED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gab52f5fbeef20f9c4878d05675a8fd7cf"><param name="Name" value="RTS_PIN_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga0213e3b6b4ff1d8d688559ef7b79733f"><param name="Name" value="RX_PIN_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gae2f7cebc7221f965925d5358defd7020"><param name="Name" value="TX_PIN_NUMBER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00009.html"><param name="Name" value="board.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00009.html#ga9c778301b9beda6db6746a84310eab58"><param name="Name" value="CTS_PIN_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00009.html#ga51e7b9a81c7a8cf41c6b26e1ff1b547a"><param name="Name" value="HWFC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00009.html#gad3fcc238e30bb8d06f0017a34b9f7455"><param name="Name" value="LED_RGB_BLUE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00009.html#ga554130276787d7ef8a66507a0886784c"><param name="Name" value="LED_RGB_GREEN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00009.html#ga07af4af4e066d6259e9b2ebf5dbef1b0"><param name="Name" value="LED_RGB_RED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00009.html#gab52f5fbeef20f9c4878d05675a8fd7cf"><param name="Name" value="RTS_PIN_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00009.html#ga0213e3b6b4ff1d8d688559ef7b79733f"><param name="Name" value="RX_PIN_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00009.html#gae2f7cebc7221f965925d5358defd7020"><param name="Name" value="TX_PIN_NUMBER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga6b20d41d6252e9871430c242cb1a56e7"><param name="Name" value="BUFFER_SIZE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga6b20d41d6252e9871430c242cb1a56e7"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga6b20d41d6252e9871430c242cb1a56e7"><param name="Name" value="uart_nrf.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html"><param name="Name" value="Clock Setup"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00019.html"><param name="Name" value="clock-init.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00019.html#gac7dd49a46c9f8e9685b77a244630be3b"><param name="Name" value="hfclk_xtal_deinit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00019.html#ga14dbf27db494cd0f695451301e78da11"><param name="Name" value="hfclk_xtal_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00019.html#gaacf6895e77d4c3479e204b9dc0938ef2"><param name="Name" value="lfclk_deinit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00019.html#gaae4a8c0e72716c16b6430ae81a28f61b"><param name="Name" value="lfclk_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00011.html"><param name="Name" value="clock-init.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00011.html#ga7f09967e49eb8c69472c576e08917d79"><param name="Name" value="HFCLK_FREQUENCY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00011.html#gac7dd49a46c9f8e9685b77a244630be3b"><param name="Name" value="hfclk_xtal_deinit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00011.html#ga14dbf27db494cd0f695451301e78da11"><param name="Name" value="hfclk_xtal_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00011.html#gaacf6895e77d4c3479e204b9dc0938ef2"><param name="Name" value="lfclk_deinit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00011.html#ga94a2fa5abbf7f4940364dcd4e62f0dc5"><param name="Name" value="LFCLK_FREQUENCY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00011.html#gaae4a8c0e72716c16b6430ae81a28f61b"><param name="Name" value="lfclk_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00011.html#ga3813b1cd306839c29dcea29226d16286"><param name="Name" value="SRC_LFCLK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00020.html"><param name="Name" value="clock-nrf.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00020.html#gadfabb25c71d431eefc043bb357a78291"><param name="Name" value="is_ms_timer_on"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00020.html#ga281ec96f78776a5ba6261a58ed0fe73d"><param name="Name" value="ms_timer_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00020.html#gaa9dae933d70ff1b94804396d823de286"><param name="Name" value="ms_timers_status"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00020.html#ga718407f79b7b10600a5d756803f12c3a"><param name="Name" value="RTC1_IRQHandler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00020.html#gad182f784e90ce14143f3e55816ac5613"><param name="Name" value="start_ms_timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00020.html#ga21b03270856be7f0008c850059626a14"><param name="Name" value="stop_ms_timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00012.html"><param name="Name" value="clock-nrf.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00012.html#gadfabb25c71d431eefc043bb357a78291"><param name="Name" value="is_ms_timer_on"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00012.html#ga281ec96f78776a5ba6261a58ed0fe73d"><param name="Name" value="ms_timer_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00012.html#ga6b7af814754ac70e8aa5e34aa9295df5"><param name="Name" value="RTC_FREQUENCY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00012.html#ga41872406bcd30d739f111d72d3ce1453"><param name="Name" value="RTC_PRESCALER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00012.html#ga6af4ff4778ae9b9d2c1cb05271d3b536"><param name="Name" value="RTC_TICKS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00012.html#gad182f784e90ce14143f3e55816ac5613"><param name="Name" value="start_ms_timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00012.html#ga21b03270856be7f0008c850059626a14"><param name="Name" value="stop_ms_timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html"><param name="Name" value="clocks-init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga7f09967e49eb8c69472c576e08917d79"><param name="Name" value="HFCLK_FREQUENCY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gac7dd49a46c9f8e9685b77a244630be3b"><param name="Name" value="hfclk_xtal_deinit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga14dbf27db494cd0f695451301e78da11"><param name="Name" value="hfclk_xtal_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaacf6895e77d4c3479e204b9dc0938ef2"><param name="Name" value="lfclk_deinit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga94a2fa5abbf7f4940364dcd4e62f0dc5"><param name="Name" value="LFCLK_FREQUENCY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaae4a8c0e72716c16b6430ae81a28f61b"><param name="Name" value="lfclk_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga3813b1cd306839c29dcea29226d16286"><param name="Name" value="SRC_LFCLK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gab8732a98b863fcb834bc22f9a570ccb9"><param name="Name" value="collect_packet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gab8732a98b863fcb834bc22f9a570ccb9"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gab8732a98b863fcb834bc22f9a570ccb9"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga9c778301b9beda6db6746a84310eab58"><param name="Name" value="CTS_PIN_NUMBER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga9c778301b9beda6db6746a84310eab58"><param name="Name" value="board-config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga9c778301b9beda6db6746a84310eab58"><param name="Name" value="board.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00006.html"><param name="Name" value="Development Setup"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html"><param name="Name" value="GPIO abstraction"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html"><param name="Name" value="hf-timer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gac3f5ae786ea023082d01a5d0d9503908"><param name="Name" value="PRINT_TIME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga54a814f2e5df087fa43aee4dcfeaa8bf"><param name="Name" value="printfcomma"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gaa402baa5f9ea438ec090db1e77961ecc"><param name="Name" value="PROFILE_START"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gab35dbcc10bc85057cfc3cd925cb9fd96"><param name="Name" value="PROFILE_STOP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga798f64e9c40681055e79588b8e9a7fce"><param name="Name" value="read_time_us"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga83cbfecd627da80524b652d63f6d0f73"><param name="Name" value="TIMER_BITSIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga7b8ab79df77b57475a5494f5f81c3bd9"><param name="Name" value="timer_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gaa7914b8d7fd0bae056b85acb5062676b"><param name="Name" value="TIMER_PRESCALER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga7f09967e49eb8c69472c576e08917d79"><param name="Name" value="HFCLK_FREQUENCY"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga7f09967e49eb8c69472c576e08917d79"><param name="Name" value="clock-init.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga7f09967e49eb8c69472c576e08917d79"><param name="Name" value="clocks-init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gac7dd49a46c9f8e9685b77a244630be3b"><param name="Name" value="hfclk_xtal_deinit"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gac7dd49a46c9f8e9685b77a244630be3b"><param name="Name" value="clock-init.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gac7dd49a46c9f8e9685b77a244630be3b"><param name="Name" value="clock-init.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gac7dd49a46c9f8e9685b77a244630be3b"><param name="Name" value="clocks-init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga14dbf27db494cd0f695451301e78da11"><param name="Name" value="hfclk_xtal_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga14dbf27db494cd0f695451301e78da11"><param name="Name" value="clock-init.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga14dbf27db494cd0f695451301e78da11"><param name="Name" value="clock-init.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga14dbf27db494cd0f695451301e78da11"><param name="Name" value="clocks-init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga51e7b9a81c7a8cf41c6b26e1ff1b547a"><param name="Name" value="HWFC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga51e7b9a81c7a8cf41c6b26e1ff1b547a"><param name="Name" value="board-config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga51e7b9a81c7a8cf41c6b26e1ff1b547a"><param name="Name" value="board.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html"><param name="Name" value="Interrupt Priority"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html"><param name="Name" value="irq-priority"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0ca78dc529d3a13d9a2e0d559e60b4b9"><param name="Name" value="PRIORITY_ADC_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga5c169b8e26c8dd9a1e356ed3580ba8a3"><param name="Name" value="PRIORITY_CCM_AAR_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga638efa90dd98ff23c8ce0198d59ed459"><param name="Name" value="PRIORITY_ECB_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga8c28e159f48d4dfaf6d694b6209a8db1"><param name="Name" value="PRIORITY_GPIOTE_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafc1bd4d5c3bf177f4f989d012c393282"><param name="Name" value="PRIORITY_LPCOMP_COMP_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gaab33f27ede9d94832146c85f74faa531"><param name="Name" value="PRIORITY_POWER_CLOCK_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gadd2032d968b6215c5e0e837198c2c50d"><param name="Name" value="PRIORITY_QDEC_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga7bdff789939dd04608bab7e3b0a8d587"><param name="Name" value="PRIORITY_RADIO_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga2f3864ca421db0a70521ac2dc6ed3b9b"><param name="Name" value="PRIORITY_RNG_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga221d84aa39f9f6e8e378ea4413544a84"><param name="Name" value="PRIORITY_RTC0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga43c7122746994b35e9f842cd2b103d85"><param name="Name" value="PRIORITY_RTC1_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0c6c81e61f0c9fc3047808b6de4839a2"><param name="Name" value="PRIORITY_SPI0_TWI0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gab4470892e8deb67f9c7bca0d67a50499"><param name="Name" value="PRIORITY_SPI1_TWI1_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga9a314906c69356be6873b9e8800a1139"><param name="Name" value="PRIORITY_SWI0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga33a3b6cc6149cb0fd4eac46be276971f"><param name="Name" value="PRIORITY_SWI1_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafc0d3bd4f947587368a7cac4adba3806"><param name="Name" value="PRIORITY_SWI2_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gac38802854b394f15ec20832b86ac5f39"><param name="Name" value="PRIORITY_SWI3_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga7eccb7726ceecf1acf11cd666a26899e"><param name="Name" value="PRIORITY_SWI4_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga283bcd8a7d6a3c15953090b89d62c3a3"><param name="Name" value="PRIORITY_SWI5_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0460d3cc817179d29c6d9eadb1a17862"><param name="Name" value="PRIORITY_TEMP_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gac2c8c4ac0778c505da905fcd7354f6b9"><param name="Name" value="PRIORITY_TIMER0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga14b09f4e0f8732a8849660083809c547"><param name="Name" value="PRIORITY_TIMER1_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga35d1bbb721e8833afcf269be1a90d32d"><param name="Name" value="PRIORITY_TIMER2_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gaaa846259a6dc7274b2098e15a19bc80a"><param name="Name" value="PRIORITY_UART0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafb240a83ce726b9b1598bcef11796503"><param name="Name" value="PRIORITY_WDT_IRQn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html"><param name="Name" value="irq_priority.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga0ca78dc529d3a13d9a2e0d559e60b4b9"><param name="Name" value="PRIORITY_ADC_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga5c169b8e26c8dd9a1e356ed3580ba8a3"><param name="Name" value="PRIORITY_CCM_AAR_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga638efa90dd98ff23c8ce0198d59ed459"><param name="Name" value="PRIORITY_ECB_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga8c28e159f48d4dfaf6d694b6209a8db1"><param name="Name" value="PRIORITY_GPIOTE_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#gafc1bd4d5c3bf177f4f989d012c393282"><param name="Name" value="PRIORITY_LPCOMP_COMP_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#gaab33f27ede9d94832146c85f74faa531"><param name="Name" value="PRIORITY_POWER_CLOCK_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#gadd2032d968b6215c5e0e837198c2c50d"><param name="Name" value="PRIORITY_QDEC_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga7bdff789939dd04608bab7e3b0a8d587"><param name="Name" value="PRIORITY_RADIO_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga2f3864ca421db0a70521ac2dc6ed3b9b"><param name="Name" value="PRIORITY_RNG_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga221d84aa39f9f6e8e378ea4413544a84"><param name="Name" value="PRIORITY_RTC0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga43c7122746994b35e9f842cd2b103d85"><param name="Name" value="PRIORITY_RTC1_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga0c6c81e61f0c9fc3047808b6de4839a2"><param name="Name" value="PRIORITY_SPI0_TWI0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#gab4470892e8deb67f9c7bca0d67a50499"><param name="Name" value="PRIORITY_SPI1_TWI1_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga9a314906c69356be6873b9e8800a1139"><param name="Name" value="PRIORITY_SWI0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga33a3b6cc6149cb0fd4eac46be276971f"><param name="Name" value="PRIORITY_SWI1_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#gafc0d3bd4f947587368a7cac4adba3806"><param name="Name" value="PRIORITY_SWI2_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#gac38802854b394f15ec20832b86ac5f39"><param name="Name" value="PRIORITY_SWI3_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga7eccb7726ceecf1acf11cd666a26899e"><param name="Name" value="PRIORITY_SWI4_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga283bcd8a7d6a3c15953090b89d62c3a3"><param name="Name" value="PRIORITY_SWI5_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga0460d3cc817179d29c6d9eadb1a17862"><param name="Name" value="PRIORITY_TEMP_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#gac2c8c4ac0778c505da905fcd7354f6b9"><param name="Name" value="PRIORITY_TIMER0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga14b09f4e0f8732a8849660083809c547"><param name="Name" value="PRIORITY_TIMER1_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#ga35d1bbb721e8833afcf269be1a90d32d"><param name="Name" value="PRIORITY_TIMER2_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#gaaa846259a6dc7274b2098e15a19bc80a"><param name="Name" value="PRIORITY_UART0_IRQn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00014.html#gafb240a83ce726b9b1598bcef11796503"><param name="Name" value="PRIORITY_WDT_IRQn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gadfabb25c71d431eefc043bb357a78291"><param name="Name" value="is_ms_timer_on"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gadfabb25c71d431eefc043bb357a78291"><param name="Name" value="clock-nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gadfabb25c71d431eefc043bb357a78291"><param name="Name" value="clock-nrf.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gadfabb25c71d431eefc043bb357a78291"><param name="Name" value="rtc-timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html"><param name="Name" value="LED Driver"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html"><param name="Name" value="led-driver"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga7423ab5e69762aaf92d6621e6cde198b"><param name="Name" value="leds_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#gae45f64135f6e3555a5d6839bb9df7cdf"><param name="Name" value="leds_off"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga2c51bc91f0a77c94baa3997e58900f63"><param name="Name" value="leds_on"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga45087a5f2179ffea87be55c7d70af6fa"><param name="Name" value="leds_toggle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gad3fcc238e30bb8d06f0017a34b9f7455"><param name="Name" value="LED_RGB_BLUE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gad3fcc238e30bb8d06f0017a34b9f7455"><param name="Name" value="board-config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gad3fcc238e30bb8d06f0017a34b9f7455"><param name="Name" value="board.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga554130276787d7ef8a66507a0886784c"><param name="Name" value="LED_RGB_GREEN"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga554130276787d7ef8a66507a0886784c"><param name="Name" value="board-config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga554130276787d7ef8a66507a0886784c"><param name="Name" value="board.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga07af4af4e066d6259e9b2ebf5dbef1b0"><param name="Name" value="LED_RGB_RED"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga07af4af4e066d6259e9b2ebf5dbef1b0"><param name="Name" value="board-config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga07af4af4e066d6259e9b2ebf5dbef1b0"><param name="Name" value="board.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00015.html"><param name="Name" value="leds.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00015.html#ga7423ab5e69762aaf92d6621e6cde198b"><param name="Name" value="leds_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00015.html#gae45f64135f6e3555a5d6839bb9df7cdf"><param name="Name" value="leds_off"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00015.html#ga2c51bc91f0a77c94baa3997e58900f63"><param name="Name" value="leds_on"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00015.html#ga45087a5f2179ffea87be55c7d70af6fa"><param name="Name" value="leds_toggle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga7423ab5e69762aaf92d6621e6cde198b"><param name="Name" value="leds_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga7423ab5e69762aaf92d6621e6cde198b"><param name="Name" value="led-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga7423ab5e69762aaf92d6621e6cde198b"><param name="Name" value="leds.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#gae45f64135f6e3555a5d6839bb9df7cdf"><param name="Name" value="leds_off"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#gae45f64135f6e3555a5d6839bb9df7cdf"><param name="Name" value="led-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#gae45f64135f6e3555a5d6839bb9df7cdf"><param name="Name" value="leds.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga2c51bc91f0a77c94baa3997e58900f63"><param name="Name" value="leds_on"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga2c51bc91f0a77c94baa3997e58900f63"><param name="Name" value="led-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga2c51bc91f0a77c94baa3997e58900f63"><param name="Name" value="leds.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga45087a5f2179ffea87be55c7d70af6fa"><param name="Name" value="leds_toggle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga45087a5f2179ffea87be55c7d70af6fa"><param name="Name" value="led-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00031.html#ga45087a5f2179ffea87be55c7d70af6fa"><param name="Name" value="leds.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaacf6895e77d4c3479e204b9dc0938ef2"><param name="Name" value="lfclk_deinit"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaacf6895e77d4c3479e204b9dc0938ef2"><param name="Name" value="clock-init.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaacf6895e77d4c3479e204b9dc0938ef2"><param name="Name" value="clock-init.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaacf6895e77d4c3479e204b9dc0938ef2"><param name="Name" value="clocks-init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga94a2fa5abbf7f4940364dcd4e62f0dc5"><param name="Name" value="LFCLK_FREQUENCY"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga94a2fa5abbf7f4940364dcd4e62f0dc5"><param name="Name" value="clock-init.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga94a2fa5abbf7f4940364dcd4e62f0dc5"><param name="Name" value="clocks-init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaae4a8c0e72716c16b6430ae81a28f61b"><param name="Name" value="lfclk_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaae4a8c0e72716c16b6430ae81a28f61b"><param name="Name" value="clock-init.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaae4a8c0e72716c16b6430ae81a28f61b"><param name="Name" value="clock-init.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#gaae4a8c0e72716c16b6430ae81a28f61b"><param name="Name" value="clocks-init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga46c15c2a9d93258b270562894d66d5d0"><param name="Name" value="LINE_END"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga46c15c2a9d93258b270562894d66d5d0"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga46c15c2a9d93258b270562894d66d5d0"><param name="Name" value="uart_nrf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae846c5fdd89ba365afcbdd1eb83b42f7"><param name="Name" value="LOGGER_NUMBER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae846c5fdd89ba365afcbdd1eb83b42f7"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae846c5fdd89ba365afcbdd1eb83b42f7"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00022.html"><param name="Name" value="main.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00022.html#a840291bc02cba5474a4cb46a9b9566fe"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga2695c8d0d1801e72d7b2444d551e8254"><param name="Name" value="MAX_PDU_SIZE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga2695c8d0d1801e72d7b2444d551e8254"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga2695c8d0d1801e72d7b2444d551e8254"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html"><param name="Name" value="Milli-Second RTC Timer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aa4e981321c0c331827ae00479467a6147"><param name="Name" value="MS_TIMER0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aa8acfb5a79ceb7151df2fdae66436f3cd"><param name="Name" value="MS_TIMER1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aa82da1cd23591a96386427076137e3c50"><param name="Name" value="MS_TIMER2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aa2b56c472cd710ca9fa843f1e4e4cdbb8"><param name="Name" value="MS_TIMER3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga281ec96f78776a5ba6261a58ed0fe73d"><param name="Name" value="ms_timer_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga281ec96f78776a5ba6261a58ed0fe73d"><param name="Name" value="clock-nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga281ec96f78776a5ba6261a58ed0fe73d"><param name="Name" value="clock-nrf.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga281ec96f78776a5ba6261a58ed0fe73d"><param name="Name" value="rtc-timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aada8df48b91dbbd473914dfc26e376cad"><param name="Name" value="MS_TIMER_MAX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gaa9dae933d70ff1b94804396d823de286"><param name="Name" value="ms_timers_status"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gaa9dae933d70ff1b94804396d823de286"><param name="Name" value="clock-nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gaa9dae933d70ff1b94804396d823de286"><param name="Name" value="rtc-timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga4e63d442ebd572126be3e030b3df4dc6"><param name="Name" value="nrf_gpio_cfg_input"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga0271806dc37bffea02d199474d526a35"><param name="Name" value="nrf_gpio_cfg_output"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga97fda94de057f7971c3a2ad325c66d75"><param name="Name" value="nrf_gpio_cfg_sense_input"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#gaf3de3729249d55592c86ecfa97fb9347"><param name="Name" value="nrf_gpio_pin_clear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#gaaa7d06cd383f816f71e277b97ca5f3d9"><param name="Name" value="nrf_gpio_pin_dir_set"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga0983906029818d8aa199b71b578d1c12"><param name="Name" value="nrf_gpio_pin_read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#gacaf7e8e242a47f7b635bbeca5c5934a3"><param name="Name" value="nrf_gpio_pin_set"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga5c8310a3b7a81cc4a267844c81769a40"><param name="Name" value="nrf_gpio_pin_toggle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga7fefa8a71e25eeb57b5b4230b0dd0484"><param name="Name" value="nrf_gpio_pin_write"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga6752ee7db03061e5a3253891651c7c5e"><param name="Name" value="nrf_gpio_port_clear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#gaaa72c88a2a29927a1eeff691d6a21afc"><param name="Name" value="nrf_gpio_port_dir_set"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga40bee84dc81b9f8981eb2647dac9d267"><param name="Name" value="nrf_gpio_port_read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga16a605149e0f0fd93fdb49b2dcaffc43"><param name="Name" value="nrf_gpio_port_set"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#gac1d4940bc5ad4aad4f6363c7021b08ae"><param name="Name" value="nrf_gpio_port_write"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga6d5c4a1b82ed45f7972aea6572e085f5"><param name="Name" value="nrf_gpio_range_cfg_input"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga08c820bf0360c7406b64ddaf3bfc7222"><param name="Name" value="nrf_gpio_range_cfg_output"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#ga2a875912b5b23a75207cc3e5a61eaf0f"><param name="Name" value="nrf_gpio_word_byte_read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00016.html#gacf721556f8a9d59b8542347c1a398bf6"><param name="Name" value="nrf_gpio_word_byte_write"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html"><param name="Name" value="nrf_gpio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga4e63d442ebd572126be3e030b3df4dc6"><param name="Name" value="nrf_gpio_cfg_input"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga0271806dc37bffea02d199474d526a35"><param name="Name" value="nrf_gpio_cfg_output"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga97fda94de057f7971c3a2ad325c66d75"><param name="Name" value="nrf_gpio_cfg_sense_input"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaf3de3729249d55592c86ecfa97fb9347"><param name="Name" value="nrf_gpio_pin_clear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga4089fa9e3311c34d254d4d00029911bcadcb15e081def4002ed564fd8abbaa29d"><param name="Name" value="NRF_GPIO_PIN_DIR_INPUT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga4089fa9e3311c34d254d4d00029911bca51b31d6f52c664433688ecc535e49f54"><param name="Name" value="NRF_GPIO_PIN_DIR_OUTPUT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaaa7d06cd383f816f71e277b97ca5f3d9"><param name="Name" value="nrf_gpio_pin_dir_set"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga07e0c8c0b30499cf0a7b79dbe62d3fcca13ffcb94eb78be866c66b5f5b516af65"><param name="Name" value="NRF_GPIO_PIN_NOPULL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga0708136c752d69015962a2ccb4c59fbda60d9e9b3abe91c66a618e34d88444e95"><param name="Name" value="NRF_GPIO_PIN_NOSENSE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga07e0c8c0b30499cf0a7b79dbe62d3fcca314d4b349d7e59ea3373a1ced4f32e4d"><param name="Name" value="NRF_GPIO_PIN_PULLDOWN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga07e0c8c0b30499cf0a7b79dbe62d3fccad60f768c699495d9976a45fa7a9f51c6"><param name="Name" value="NRF_GPIO_PIN_PULLUP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga0983906029818d8aa199b71b578d1c12"><param name="Name" value="nrf_gpio_pin_read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga0708136c752d69015962a2ccb4c59fbda8fe882a266370654fa6d664be3e1ecce"><param name="Name" value="NRF_GPIO_PIN_SENSE_HIGH"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga0708136c752d69015962a2ccb4c59fbda48aaaa3fc33a295d9c65f094e03aba24"><param name="Name" value="NRF_GPIO_PIN_SENSE_LOW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gacaf7e8e242a47f7b635bbeca5c5934a3"><param name="Name" value="nrf_gpio_pin_set"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga5c8310a3b7a81cc4a267844c81769a40"><param name="Name" value="nrf_gpio_pin_toggle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga7fefa8a71e25eeb57b5b4230b0dd0484"><param name="Name" value="nrf_gpio_pin_write"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga6752ee7db03061e5a3253891651c7c5e"><param name="Name" value="nrf_gpio_port_clear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga494d7ac30db1cbb6366e0b9ebd5b49b4a6ec5811669635e30b9dc014e1f494936"><param name="Name" value="NRF_GPIO_PORT_DIR_INPUT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga494d7ac30db1cbb6366e0b9ebd5b49b4a90b7ce7a76775cb7534487635755be3f"><param name="Name" value="NRF_GPIO_PORT_DIR_OUTPUT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaaa72c88a2a29927a1eeff691d6a21afc"><param name="Name" value="nrf_gpio_port_dir_set"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga40bee84dc81b9f8981eb2647dac9d267"><param name="Name" value="nrf_gpio_port_read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ggaa1a5c145e334817f2d960317d64fcb3dada4c86d9760e81857ec0482c1cc78190"><param name="Name" value="NRF_GPIO_PORT_SELECT_PORT0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ggaa1a5c145e334817f2d960317d64fcb3da9209d7820d65eb58c7804e676581bf40"><param name="Name" value="NRF_GPIO_PORT_SELECT_PORT1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ggaa1a5c145e334817f2d960317d64fcb3daf83f3be082e45a73102618f149448fc8"><param name="Name" value="NRF_GPIO_PORT_SELECT_PORT2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ggaa1a5c145e334817f2d960317d64fcb3da9075a015252fd02d27ba7ca897aa564d"><param name="Name" value="NRF_GPIO_PORT_SELECT_PORT3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga16a605149e0f0fd93fdb49b2dcaffc43"><param name="Name" value="nrf_gpio_port_set"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gac1d4940bc5ad4aad4f6363c7021b08ae"><param name="Name" value="nrf_gpio_port_write"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga6d5c4a1b82ed45f7972aea6572e085f5"><param name="Name" value="nrf_gpio_range_cfg_input"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga08c820bf0360c7406b64ddaf3bfc7222"><param name="Name" value="nrf_gpio_range_cfg_output"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga2a875912b5b23a75207cc3e5a61eaf0f"><param name="Name" value="nrf_gpio_word_byte_read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gacf721556f8a9d59b8542347c1a398bf6"><param name="Name" value="nrf_gpio_word_byte_write"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga4e63d442ebd572126be3e030b3df4dc6"><param name="Name" value="nrf_gpio_cfg_input"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga4e63d442ebd572126be3e030b3df4dc6"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga4e63d442ebd572126be3e030b3df4dc6"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga0271806dc37bffea02d199474d526a35"><param name="Name" value="nrf_gpio_cfg_output"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga0271806dc37bffea02d199474d526a35"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga0271806dc37bffea02d199474d526a35"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga97fda94de057f7971c3a2ad325c66d75"><param name="Name" value="nrf_gpio_cfg_sense_input"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga97fda94de057f7971c3a2ad325c66d75"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga97fda94de057f7971c3a2ad325c66d75"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaf3de3729249d55592c86ecfa97fb9347"><param name="Name" value="nrf_gpio_pin_clear"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaf3de3729249d55592c86ecfa97fb9347"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaf3de3729249d55592c86ecfa97fb9347"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga4089fa9e3311c34d254d4d00029911bcadcb15e081def4002ed564fd8abbaa29d"><param name="Name" value="NRF_GPIO_PIN_DIR_INPUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga4089fa9e3311c34d254d4d00029911bca51b31d6f52c664433688ecc535e49f54"><param name="Name" value="NRF_GPIO_PIN_DIR_OUTPUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaaa7d06cd383f816f71e277b97ca5f3d9"><param name="Name" value="nrf_gpio_pin_dir_set"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaaa7d06cd383f816f71e277b97ca5f3d9"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaaa7d06cd383f816f71e277b97ca5f3d9"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga07e0c8c0b30499cf0a7b79dbe62d3fcca13ffcb94eb78be866c66b5f5b516af65"><param name="Name" value="NRF_GPIO_PIN_NOPULL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga0708136c752d69015962a2ccb4c59fbda60d9e9b3abe91c66a618e34d88444e95"><param name="Name" value="NRF_GPIO_PIN_NOSENSE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga07e0c8c0b30499cf0a7b79dbe62d3fcca314d4b349d7e59ea3373a1ced4f32e4d"><param name="Name" value="NRF_GPIO_PIN_PULLDOWN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga07e0c8c0b30499cf0a7b79dbe62d3fccad60f768c699495d9976a45fa7a9f51c6"><param name="Name" value="NRF_GPIO_PIN_PULLUP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga0983906029818d8aa199b71b578d1c12"><param name="Name" value="nrf_gpio_pin_read"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga0983906029818d8aa199b71b578d1c12"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga0983906029818d8aa199b71b578d1c12"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga0708136c752d69015962a2ccb4c59fbda8fe882a266370654fa6d664be3e1ecce"><param name="Name" value="NRF_GPIO_PIN_SENSE_HIGH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga0708136c752d69015962a2ccb4c59fbda48aaaa3fc33a295d9c65f094e03aba24"><param name="Name" value="NRF_GPIO_PIN_SENSE_LOW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gacaf7e8e242a47f7b635bbeca5c5934a3"><param name="Name" value="nrf_gpio_pin_set"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gacaf7e8e242a47f7b635bbeca5c5934a3"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gacaf7e8e242a47f7b635bbeca5c5934a3"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga5c8310a3b7a81cc4a267844c81769a40"><param name="Name" value="nrf_gpio_pin_toggle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga5c8310a3b7a81cc4a267844c81769a40"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga5c8310a3b7a81cc4a267844c81769a40"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga7fefa8a71e25eeb57b5b4230b0dd0484"><param name="Name" value="nrf_gpio_pin_write"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga7fefa8a71e25eeb57b5b4230b0dd0484"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga7fefa8a71e25eeb57b5b4230b0dd0484"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga6752ee7db03061e5a3253891651c7c5e"><param name="Name" value="nrf_gpio_port_clear"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga6752ee7db03061e5a3253891651c7c5e"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga6752ee7db03061e5a3253891651c7c5e"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga494d7ac30db1cbb6366e0b9ebd5b49b4a6ec5811669635e30b9dc014e1f494936"><param name="Name" value="NRF_GPIO_PORT_DIR_INPUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gga494d7ac30db1cbb6366e0b9ebd5b49b4a90b7ce7a76775cb7534487635755be3f"><param name="Name" value="NRF_GPIO_PORT_DIR_OUTPUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaaa72c88a2a29927a1eeff691d6a21afc"><param name="Name" value="nrf_gpio_port_dir_set"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaaa72c88a2a29927a1eeff691d6a21afc"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gaaa72c88a2a29927a1eeff691d6a21afc"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga40bee84dc81b9f8981eb2647dac9d267"><param name="Name" value="nrf_gpio_port_read"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga40bee84dc81b9f8981eb2647dac9d267"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga40bee84dc81b9f8981eb2647dac9d267"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ggaa1a5c145e334817f2d960317d64fcb3dada4c86d9760e81857ec0482c1cc78190"><param name="Name" value="NRF_GPIO_PORT_SELECT_PORT0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ggaa1a5c145e334817f2d960317d64fcb3da9209d7820d65eb58c7804e676581bf40"><param name="Name" value="NRF_GPIO_PORT_SELECT_PORT1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ggaa1a5c145e334817f2d960317d64fcb3daf83f3be082e45a73102618f149448fc8"><param name="Name" value="NRF_GPIO_PORT_SELECT_PORT2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ggaa1a5c145e334817f2d960317d64fcb3da9075a015252fd02d27ba7ca897aa564d"><param name="Name" value="NRF_GPIO_PORT_SELECT_PORT3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga16a605149e0f0fd93fdb49b2dcaffc43"><param name="Name" value="nrf_gpio_port_set"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga16a605149e0f0fd93fdb49b2dcaffc43"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga16a605149e0f0fd93fdb49b2dcaffc43"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gac1d4940bc5ad4aad4f6363c7021b08ae"><param name="Name" value="nrf_gpio_port_write"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gac1d4940bc5ad4aad4f6363c7021b08ae"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gac1d4940bc5ad4aad4f6363c7021b08ae"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga6d5c4a1b82ed45f7972aea6572e085f5"><param name="Name" value="nrf_gpio_range_cfg_input"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga6d5c4a1b82ed45f7972aea6572e085f5"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga6d5c4a1b82ed45f7972aea6572e085f5"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga08c820bf0360c7406b64ddaf3bfc7222"><param name="Name" value="nrf_gpio_range_cfg_output"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga08c820bf0360c7406b64ddaf3bfc7222"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga08c820bf0360c7406b64ddaf3bfc7222"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga2a875912b5b23a75207cc3e5a61eaf0f"><param name="Name" value="nrf_gpio_word_byte_read"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga2a875912b5b23a75207cc3e5a61eaf0f"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#ga2a875912b5b23a75207cc3e5a61eaf0f"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gacf721556f8a9d59b8542347c1a398bf6"><param name="Name" value="nrf_gpio_word_byte_write"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gacf721556f8a9d59b8542347c1a398bf6"><param name="Name" value="nrf_gpio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00032.html#gacf721556f8a9d59b8542347c1a398bf6"><param name="Name" value="nrf_gpio.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html"><param name="Name" value="observer.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gac691cefd480d45a02b3dcd198cecf98b"><param name="Name" value="adv_seg_print"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gab8732a98b863fcb834bc22f9a570ccb9"><param name="Name" value="collect_packet"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gae846c5fdd89ba365afcbdd1eb83b42f7"><param name="Name" value="LOGGER_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga2695c8d0d1801e72d7b2444d551e8254"><param name="Name" value="MAX_PDU_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga5358036fb07f13befea0ab1e2f5eee65"><param name="Name" value="obsvr_begin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga4a3d214ffae8823711529395209c1926"><param name="Name" value="obsvr_interval"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga130dc969e4bc0160d97eed48b879c0ff"><param name="Name" value="obsvr_radio_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga73bcdcdd55654b8791b54de676992dc4"><param name="Name" value="obsvr_req"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga9038a6fa4a99ac5283e3e6d6ae0e9b6c"><param name="Name" value="obsvr_window"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga8f9df41e1f6dc36933cac7c48c785a15"><param name="Name" value="packet_count"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gaf34352d9e31f73c6b0dd772606515f0f"><param name="Name" value="packets"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga4374e536fd7dede831225adc0e303c3a"><param name="Name" value="pdu"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga58ff9d2a7ec98b0ea091905504a58808"><param name="Name" value="print_collected"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga8a6d7efd6ddd5bef836de5dc3bffa134"><param name="Name" value="RADIO_IRQHandler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga48f282bc8f1d66f858ef352dce15a10a"><param name="Name" value="rssi"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga94ae66ba8697786c3808790a66153c65"><param name="Name" value="SCAN_INTERVAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga71823c896e80fe04581f214521a901de"><param name="Name" value="SCAN_WINDOW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga0faf84ebd2908af31544bd8d32847a75"><param name="Name" value="SET_BIT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gae9a4295873bc94cb78b22fe7cc743ccb"><param name="Name" value="TYPE_ADV_DIRECT_IND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gace47ff5dbae44c09f6f42f5af68fce1c"><param name="Name" value="TYPE_ADV_IND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gafc90f7d17e671fd6bdc018679726e773"><param name="Name" value="TYPE_ADV_NONCONN_IND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga3038c65f476d576d80cfd32208588438"><param name="Name" value="TYPE_ADV_SCAN_IND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga7393ce5f357b82cbfd3b60fdeeb60b11"><param name="Name" value="TYPE_APPEARANCE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gaba641dd050555f1a491b644ce583be2c"><param name="Name" value="TYPE_CONNECT_REQ"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gab54bcd21e6099ce3a73e65db7924dd71"><param name="Name" value="TYPE_CONNINTERVAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga68e8af3504ec313bb9b1891eb0a507dd"><param name="Name" value="TYPE_FLAGS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga551deb07a8ecd403b414658705dabba5"><param name="Name" value="TYPE_MANUFACTURER_SPECIFIC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gaa456af39a1f536609e30b2bb0c1bbc14"><param name="Name" value="TYPE_NAME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga40e056bfd32f17e3e29c02872a0b6a0f"><param name="Name" value="TYPE_NAME_SHORT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gafa4274e680761a15632f64c2f17e6ad9"><param name="Name" value="TYPE_SCAN_REQ"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gaec6344359499fd3545334abb07a4a741"><param name="Name" value="TYPE_SCAN_RSP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gad708ab7e79f997f3f888bdaec280c309"><param name="Name" value="TYPE_SERVICE_SOLICITATION128"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gacf6bf77e07f7a0424b42d723bfa3f606"><param name="Name" value="TYPE_SERVICE_SOLICITATION16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga3448f6313f81115dae99f3b12b8c109e"><param name="Name" value="TYPE_SERVICEDATA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gac094872c3935b30df9b3e5f53c8bb537"><param name="Name" value="TYPE_TRANSMITPOWER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga142bb4577abfd0026a186bcc6e324dfc"><param name="Name" value="TYPE_UUID128"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gac3ea3b10ca0808e1d6fd82b2774c57e4"><param name="Name" value="TYPE_UUID128_INC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga2384300adfa21e9ab50ae3b014a56ae5"><param name="Name" value="TYPE_UUID16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gad98eaf47fef05d63cc326adf4c384ade"><param name="Name" value="TYPE_UUID16_INC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#ga496a9f209d5b4e4516bcba3351509624"><param name="Name" value="TYPE_UUID32"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00023.html#gae07b6571d948f6676a39b56eab5a566b"><param name="Name" value="TYPE_UUID32_INC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00010.html"><param name="Name" value="observer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00010.html#ga5358036fb07f13befea0ab1e2f5eee65"><param name="Name" value="obsvr_begin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00010.html#ga130dc969e4bc0160d97eed48b879c0ff"><param name="Name" value="obsvr_radio_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga5358036fb07f13befea0ab1e2f5eee65"><param name="Name" value="obsvr_begin"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga5358036fb07f13befea0ab1e2f5eee65"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga5358036fb07f13befea0ab1e2f5eee65"><param name="Name" value="observer.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga5358036fb07f13befea0ab1e2f5eee65"><param name="Name" value="observer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga4a3d214ffae8823711529395209c1926"><param name="Name" value="obsvr_interval"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga4a3d214ffae8823711529395209c1926"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga4a3d214ffae8823711529395209c1926"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga130dc969e4bc0160d97eed48b879c0ff"><param name="Name" value="obsvr_radio_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga130dc969e4bc0160d97eed48b879c0ff"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga130dc969e4bc0160d97eed48b879c0ff"><param name="Name" value="observer.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga130dc969e4bc0160d97eed48b879c0ff"><param name="Name" value="observer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga73bcdcdd55654b8791b54de676992dc4"><param name="Name" value="obsvr_req"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga73bcdcdd55654b8791b54de676992dc4"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga73bcdcdd55654b8791b54de676992dc4"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga9038a6fa4a99ac5283e3e6d6ae0e9b6c"><param name="Name" value="obsvr_window"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga9038a6fa4a99ac5283e3e6d6ae0e9b6c"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga9038a6fa4a99ac5283e3e6d6ae0e9b6c"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga8f9df41e1f6dc36933cac7c48c785a15"><param name="Name" value="packet_count"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga8f9df41e1f6dc36933cac7c48c785a15"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga8f9df41e1f6dc36933cac7c48c785a15"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaf34352d9e31f73c6b0dd772606515f0f"><param name="Name" value="packets"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaf34352d9e31f73c6b0dd772606515f0f"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaf34352d9e31f73c6b0dd772606515f0f"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga4374e536fd7dede831225adc0e303c3a"><param name="Name" value="pdu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga4374e536fd7dede831225adc0e303c3a"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga4374e536fd7dede831225adc0e303c3a"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00027.html"><param name="Name" value="Peripheral Drivers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga58ff9d2a7ec98b0ea091905504a58808"><param name="Name" value="print_collected"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga58ff9d2a7ec98b0ea091905504a58808"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga58ff9d2a7ec98b0ea091905504a58808"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gac3f5ae786ea023082d01a5d0d9503908"><param name="Name" value="PRINT_TIME"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gac3f5ae786ea023082d01a5d0d9503908"><param name="Name" value="hf-timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gac3f5ae786ea023082d01a5d0d9503908"><param name="Name" value="timer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga54a814f2e5df087fa43aee4dcfeaa8bf"><param name="Name" value="printfcomma"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga54a814f2e5df087fa43aee4dcfeaa8bf"><param name="Name" value="hf-timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga54a814f2e5df087fa43aee4dcfeaa8bf"><param name="Name" value="timer.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga54a814f2e5df087fa43aee4dcfeaa8bf"><param name="Name" value="timer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0ca78dc529d3a13d9a2e0d559e60b4b9"><param name="Name" value="PRIORITY_ADC_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0ca78dc529d3a13d9a2e0d559e60b4b9"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0ca78dc529d3a13d9a2e0d559e60b4b9"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga5c169b8e26c8dd9a1e356ed3580ba8a3"><param name="Name" value="PRIORITY_CCM_AAR_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga5c169b8e26c8dd9a1e356ed3580ba8a3"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga5c169b8e26c8dd9a1e356ed3580ba8a3"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga638efa90dd98ff23c8ce0198d59ed459"><param name="Name" value="PRIORITY_ECB_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga638efa90dd98ff23c8ce0198d59ed459"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga638efa90dd98ff23c8ce0198d59ed459"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga8c28e159f48d4dfaf6d694b6209a8db1"><param name="Name" value="PRIORITY_GPIOTE_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga8c28e159f48d4dfaf6d694b6209a8db1"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga8c28e159f48d4dfaf6d694b6209a8db1"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafc1bd4d5c3bf177f4f989d012c393282"><param name="Name" value="PRIORITY_LPCOMP_COMP_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafc1bd4d5c3bf177f4f989d012c393282"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafc1bd4d5c3bf177f4f989d012c393282"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gaab33f27ede9d94832146c85f74faa531"><param name="Name" value="PRIORITY_POWER_CLOCK_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gaab33f27ede9d94832146c85f74faa531"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gaab33f27ede9d94832146c85f74faa531"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gadd2032d968b6215c5e0e837198c2c50d"><param name="Name" value="PRIORITY_QDEC_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gadd2032d968b6215c5e0e837198c2c50d"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gadd2032d968b6215c5e0e837198c2c50d"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga7bdff789939dd04608bab7e3b0a8d587"><param name="Name" value="PRIORITY_RADIO_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga7bdff789939dd04608bab7e3b0a8d587"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga7bdff789939dd04608bab7e3b0a8d587"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga2f3864ca421db0a70521ac2dc6ed3b9b"><param name="Name" value="PRIORITY_RNG_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga2f3864ca421db0a70521ac2dc6ed3b9b"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga2f3864ca421db0a70521ac2dc6ed3b9b"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga221d84aa39f9f6e8e378ea4413544a84"><param name="Name" value="PRIORITY_RTC0_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga221d84aa39f9f6e8e378ea4413544a84"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga221d84aa39f9f6e8e378ea4413544a84"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga43c7122746994b35e9f842cd2b103d85"><param name="Name" value="PRIORITY_RTC1_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga43c7122746994b35e9f842cd2b103d85"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga43c7122746994b35e9f842cd2b103d85"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0c6c81e61f0c9fc3047808b6de4839a2"><param name="Name" value="PRIORITY_SPI0_TWI0_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0c6c81e61f0c9fc3047808b6de4839a2"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0c6c81e61f0c9fc3047808b6de4839a2"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gab4470892e8deb67f9c7bca0d67a50499"><param name="Name" value="PRIORITY_SPI1_TWI1_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gab4470892e8deb67f9c7bca0d67a50499"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gab4470892e8deb67f9c7bca0d67a50499"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga9a314906c69356be6873b9e8800a1139"><param name="Name" value="PRIORITY_SWI0_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga9a314906c69356be6873b9e8800a1139"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga9a314906c69356be6873b9e8800a1139"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga33a3b6cc6149cb0fd4eac46be276971f"><param name="Name" value="PRIORITY_SWI1_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga33a3b6cc6149cb0fd4eac46be276971f"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga33a3b6cc6149cb0fd4eac46be276971f"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafc0d3bd4f947587368a7cac4adba3806"><param name="Name" value="PRIORITY_SWI2_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafc0d3bd4f947587368a7cac4adba3806"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafc0d3bd4f947587368a7cac4adba3806"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gac38802854b394f15ec20832b86ac5f39"><param name="Name" value="PRIORITY_SWI3_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gac38802854b394f15ec20832b86ac5f39"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gac38802854b394f15ec20832b86ac5f39"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga7eccb7726ceecf1acf11cd666a26899e"><param name="Name" value="PRIORITY_SWI4_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga7eccb7726ceecf1acf11cd666a26899e"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga7eccb7726ceecf1acf11cd666a26899e"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga283bcd8a7d6a3c15953090b89d62c3a3"><param name="Name" value="PRIORITY_SWI5_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga283bcd8a7d6a3c15953090b89d62c3a3"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga283bcd8a7d6a3c15953090b89d62c3a3"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0460d3cc817179d29c6d9eadb1a17862"><param name="Name" value="PRIORITY_TEMP_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0460d3cc817179d29c6d9eadb1a17862"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga0460d3cc817179d29c6d9eadb1a17862"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gac2c8c4ac0778c505da905fcd7354f6b9"><param name="Name" value="PRIORITY_TIMER0_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gac2c8c4ac0778c505da905fcd7354f6b9"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gac2c8c4ac0778c505da905fcd7354f6b9"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga14b09f4e0f8732a8849660083809c547"><param name="Name" value="PRIORITY_TIMER1_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga14b09f4e0f8732a8849660083809c547"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga14b09f4e0f8732a8849660083809c547"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga35d1bbb721e8833afcf269be1a90d32d"><param name="Name" value="PRIORITY_TIMER2_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga35d1bbb721e8833afcf269be1a90d32d"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#ga35d1bbb721e8833afcf269be1a90d32d"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gaaa846259a6dc7274b2098e15a19bc80a"><param name="Name" value="PRIORITY_UART0_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gaaa846259a6dc7274b2098e15a19bc80a"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gaaa846259a6dc7274b2098e15a19bc80a"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafb240a83ce726b9b1598bcef11796503"><param name="Name" value="PRIORITY_WDT_IRQn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafb240a83ce726b9b1598bcef11796503"><param name="Name" value="irq-priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00030.html#gafb240a83ce726b9b1598bcef11796503"><param name="Name" value="irq_priority.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html"><param name="Name" value="Profile Timer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gaa402baa5f9ea438ec090db1e77961ecc"><param name="Name" value="PROFILE_START"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gaa402baa5f9ea438ec090db1e77961ecc"><param name="Name" value="hf-timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gaa402baa5f9ea438ec090db1e77961ecc"><param name="Name" value="timer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gab35dbcc10bc85057cfc3cd925cb9fd96"><param name="Name" value="PROFILE_STOP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gab35dbcc10bc85057cfc3cd925cb9fd96"><param name="Name" value="hf-timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gab35dbcc10bc85057cfc3cd925cb9fd96"><param name="Name" value="timer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga8a6d7efd6ddd5bef836de5dc3bffa134"><param name="Name" value="RADIO_IRQHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga8a6d7efd6ddd5bef836de5dc3bffa134"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga8a6d7efd6ddd5bef836de5dc3bffa134"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga798f64e9c40681055e79588b8e9a7fce"><param name="Name" value="read_time_us"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga798f64e9c40681055e79588b8e9a7fce"><param name="Name" value="hf-timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga798f64e9c40681055e79588b8e9a7fce"><param name="Name" value="timer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gga28110292f2481f7b44d1517fb4ce3c15a11d5681902665717e237349c0f0737a9"><param name="Name" value="REPEATED_CALL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga48f282bc8f1d66f858ef352dce15a10a"><param name="Name" value="rssi"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga48f282bc8f1d66f858ef352dce15a10a"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga48f282bc8f1d66f858ef352dce15a10a"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html"><param name="Name" value="rtc-timer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gadfabb25c71d431eefc043bb357a78291"><param name="Name" value="is_ms_timer_on"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aa4e981321c0c331827ae00479467a6147"><param name="Name" value="MS_TIMER0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aa8acfb5a79ceb7151df2fdae66436f3cd"><param name="Name" value="MS_TIMER1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aa82da1cd23591a96386427076137e3c50"><param name="Name" value="MS_TIMER2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aa2b56c472cd710ca9fa843f1e4e4cdbb8"><param name="Name" value="MS_TIMER3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga281ec96f78776a5ba6261a58ed0fe73d"><param name="Name" value="ms_timer_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ggaa75f34d7f307156b94d3356799aca24aada8df48b91dbbd473914dfc26e376cad"><param name="Name" value="MS_TIMER_MAX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gaa9dae933d70ff1b94804396d823de286"><param name="Name" value="ms_timers_status"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gga28110292f2481f7b44d1517fb4ce3c15a11d5681902665717e237349c0f0737a9"><param name="Name" value="REPEATED_CALL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga718407f79b7b10600a5d756803f12c3a"><param name="Name" value="RTC1_IRQHandler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga6b7af814754ac70e8aa5e34aa9295df5"><param name="Name" value="RTC_FREQUENCY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga41872406bcd30d739f111d72d3ce1453"><param name="Name" value="RTC_PRESCALER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga6af4ff4778ae9b9d2c1cb05271d3b536"><param name="Name" value="RTC_TICKS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gga28110292f2481f7b44d1517fb4ce3c15a74ec1c34a9c327d932ac2a0b04660382"><param name="Name" value="SINGLE_CALL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gad182f784e90ce14143f3e55816ac5613"><param name="Name" value="start_ms_timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga21b03270856be7f0008c850059626a14"><param name="Name" value="stop_ms_timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga718407f79b7b10600a5d756803f12c3a"><param name="Name" value="RTC1_IRQHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga718407f79b7b10600a5d756803f12c3a"><param name="Name" value="clock-nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga718407f79b7b10600a5d756803f12c3a"><param name="Name" value="rtc-timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga6b7af814754ac70e8aa5e34aa9295df5"><param name="Name" value="RTC_FREQUENCY"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga6b7af814754ac70e8aa5e34aa9295df5"><param name="Name" value="clock-nrf.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga6b7af814754ac70e8aa5e34aa9295df5"><param name="Name" value="rtc-timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga41872406bcd30d739f111d72d3ce1453"><param name="Name" value="RTC_PRESCALER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga41872406bcd30d739f111d72d3ce1453"><param name="Name" value="clock-nrf.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga41872406bcd30d739f111d72d3ce1453"><param name="Name" value="rtc-timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga6af4ff4778ae9b9d2c1cb05271d3b536"><param name="Name" value="RTC_TICKS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga6af4ff4778ae9b9d2c1cb05271d3b536"><param name="Name" value="clock-nrf.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga6af4ff4778ae9b9d2c1cb05271d3b536"><param name="Name" value="rtc-timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gab52f5fbeef20f9c4878d05675a8fd7cf"><param name="Name" value="RTS_PIN_NUMBER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gab52f5fbeef20f9c4878d05675a8fd7cf"><param name="Name" value="board-config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gab52f5fbeef20f9c4878d05675a8fd7cf"><param name="Name" value="board.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga7859af7e1d2d58c1bc67f781bbfbe818"><param name="Name" value="rx_buffer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga7859af7e1d2d58c1bc67f781bbfbe818"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga7859af7e1d2d58c1bc67f781bbfbe818"><param name="Name" value="uart_nrf.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#gaa6b728f4c94145f6d553736104fe0c2e"><param name="Name" value="rx_collect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#gaa6b728f4c94145f6d553736104fe0c2e"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#gaa6b728f4c94145f6d553736104fe0c2e"><param name="Name" value="uart_nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#gaa6b728f4c94145f6d553736104fe0c2e"><param name="Name" value="uart_nrf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga864405d64cc7c95b302a02e9e2302e39"><param name="Name" value="rx_handler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga864405d64cc7c95b302a02e9e2302e39"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga864405d64cc7c95b302a02e9e2302e39"><param name="Name" value="uart_nrf.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga0213e3b6b4ff1d8d688559ef7b79733f"><param name="Name" value="RX_PIN_NUMBER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga0213e3b6b4ff1d8d688559ef7b79733f"><param name="Name" value="board-config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#ga0213e3b6b4ff1d8d688559ef7b79733f"><param name="Name" value="board.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga94ae66ba8697786c3808790a66153c65"><param name="Name" value="SCAN_INTERVAL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga94ae66ba8697786c3808790a66153c65"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga94ae66ba8697786c3808790a66153c65"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga71823c896e80fe04581f214521a901de"><param name="Name" value="SCAN_WINDOW"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga71823c896e80fe04581f214521a901de"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga71823c896e80fe04581f214521a901de"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00002.html"><param name="Name" value="Scanning BLE Advertisements"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga0faf84ebd2908af31544bd8d32847a75"><param name="Name" value="SET_BIT"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga0faf84ebd2908af31544bd8d32847a75"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga0faf84ebd2908af31544bd8d32847a75"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga020faeb36fd09b681c133f4b2b8e112b"><param name="Name" value="set_rx_handler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga020faeb36fd09b681c133f4b2b8e112b"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga020faeb36fd09b681c133f4b2b8e112b"><param name="Name" value="uart_nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga020faeb36fd09b681c133f4b2b8e112b"><param name="Name" value="uart_nrf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gga28110292f2481f7b44d1517fb4ce3c15a74ec1c34a9c327d932ac2a0b04660382"><param name="Name" value="SINGLE_CALL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00004.html"><param name="Name" value="Software Architecture"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga3813b1cd306839c29dcea29226d16286"><param name="Name" value="SRC_LFCLK"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga3813b1cd306839c29dcea29226d16286"><param name="Name" value="clock-init.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00028.html#ga3813b1cd306839c29dcea29226d16286"><param name="Name" value="clocks-init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gad182f784e90ce14143f3e55816ac5613"><param name="Name" value="start_ms_timer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gad182f784e90ce14143f3e55816ac5613"><param name="Name" value="clock-nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gad182f784e90ce14143f3e55816ac5613"><param name="Name" value="clock-nrf.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#gad182f784e90ce14143f3e55816ac5613"><param name="Name" value="rtc-timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga21b03270856be7f0008c850059626a14"><param name="Name" value="stop_ms_timer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga21b03270856be7f0008c850059626a14"><param name="Name" value="clock-nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga21b03270856be7f0008c850059626a14"><param name="Name" value="clock-nrf.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00029.html#ga21b03270856be7f0008c850059626a14"><param name="Name" value="rtc-timer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00024.html"><param name="Name" value="system_nrf51.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00025.html"><param name="Name" value="timer.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00025.html#ga54a814f2e5df087fa43aee4dcfeaa8bf"><param name="Name" value="printfcomma"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00025.html#ga7b8ab79df77b57475a5494f5f81c3bd9"><param name="Name" value="timer_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00017.html"><param name="Name" value="timer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00017.html#gac3f5ae786ea023082d01a5d0d9503908"><param name="Name" value="PRINT_TIME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00017.html#ga54a814f2e5df087fa43aee4dcfeaa8bf"><param name="Name" value="printfcomma"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00017.html#gaa402baa5f9ea438ec090db1e77961ecc"><param name="Name" value="PROFILE_START"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00017.html#gab35dbcc10bc85057cfc3cd925cb9fd96"><param name="Name" value="PROFILE_STOP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00017.html#ga798f64e9c40681055e79588b8e9a7fce"><param name="Name" value="read_time_us"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00017.html#ga83cbfecd627da80524b652d63f6d0f73"><param name="Name" value="TIMER_BITSIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00017.html#ga7b8ab79df77b57475a5494f5f81c3bd9"><param name="Name" value="timer_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00017.html#gaa7914b8d7fd0bae056b85acb5062676b"><param name="Name" value="TIMER_PRESCALER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga83cbfecd627da80524b652d63f6d0f73"><param name="Name" value="TIMER_BITSIZE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga83cbfecd627da80524b652d63f6d0f73"><param name="Name" value="hf-timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga83cbfecd627da80524b652d63f6d0f73"><param name="Name" value="timer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga7b8ab79df77b57475a5494f5f81c3bd9"><param name="Name" value="timer_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga7b8ab79df77b57475a5494f5f81c3bd9"><param name="Name" value="hf-timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga7b8ab79df77b57475a5494f5f81c3bd9"><param name="Name" value="timer.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#ga7b8ab79df77b57475a5494f5f81c3bd9"><param name="Name" value="timer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gaa7914b8d7fd0bae056b85acb5062676b"><param name="Name" value="TIMER_PRESCALER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gaa7914b8d7fd0bae056b85acb5062676b"><param name="Name" value="hf-timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00033.html#gaa7914b8d7fd0bae056b85acb5062676b"><param name="Name" value="timer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00038.html"><param name="Name" value="Todo List"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gae2f7cebc7221f965925d5358defd7020"><param name="Name" value="TX_PIN_NUMBER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gae2f7cebc7221f965925d5358defd7020"><param name="Name" value="board-config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00035.html#gae2f7cebc7221f965925d5358defd7020"><param name="Name" value="board.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae9a4295873bc94cb78b22fe7cc743ccb"><param name="Name" value="TYPE_ADV_DIRECT_IND"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae9a4295873bc94cb78b22fe7cc743ccb"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae9a4295873bc94cb78b22fe7cc743ccb"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gace47ff5dbae44c09f6f42f5af68fce1c"><param name="Name" value="TYPE_ADV_IND"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gace47ff5dbae44c09f6f42f5af68fce1c"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gace47ff5dbae44c09f6f42f5af68fce1c"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gafc90f7d17e671fd6bdc018679726e773"><param name="Name" value="TYPE_ADV_NONCONN_IND"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gafc90f7d17e671fd6bdc018679726e773"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gafc90f7d17e671fd6bdc018679726e773"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga3038c65f476d576d80cfd32208588438"><param name="Name" value="TYPE_ADV_SCAN_IND"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga3038c65f476d576d80cfd32208588438"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga3038c65f476d576d80cfd32208588438"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga7393ce5f357b82cbfd3b60fdeeb60b11"><param name="Name" value="TYPE_APPEARANCE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga7393ce5f357b82cbfd3b60fdeeb60b11"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga7393ce5f357b82cbfd3b60fdeeb60b11"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaba641dd050555f1a491b644ce583be2c"><param name="Name" value="TYPE_CONNECT_REQ"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaba641dd050555f1a491b644ce583be2c"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaba641dd050555f1a491b644ce583be2c"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gab54bcd21e6099ce3a73e65db7924dd71"><param name="Name" value="TYPE_CONNINTERVAL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gab54bcd21e6099ce3a73e65db7924dd71"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gab54bcd21e6099ce3a73e65db7924dd71"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga68e8af3504ec313bb9b1891eb0a507dd"><param name="Name" value="TYPE_FLAGS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga68e8af3504ec313bb9b1891eb0a507dd"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga68e8af3504ec313bb9b1891eb0a507dd"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga551deb07a8ecd403b414658705dabba5"><param name="Name" value="TYPE_MANUFACTURER_SPECIFIC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga551deb07a8ecd403b414658705dabba5"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga551deb07a8ecd403b414658705dabba5"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaa456af39a1f536609e30b2bb0c1bbc14"><param name="Name" value="TYPE_NAME"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaa456af39a1f536609e30b2bb0c1bbc14"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaa456af39a1f536609e30b2bb0c1bbc14"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga40e056bfd32f17e3e29c02872a0b6a0f"><param name="Name" value="TYPE_NAME_SHORT"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga40e056bfd32f17e3e29c02872a0b6a0f"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga40e056bfd32f17e3e29c02872a0b6a0f"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gafa4274e680761a15632f64c2f17e6ad9"><param name="Name" value="TYPE_SCAN_REQ"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gafa4274e680761a15632f64c2f17e6ad9"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gafa4274e680761a15632f64c2f17e6ad9"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaec6344359499fd3545334abb07a4a741"><param name="Name" value="TYPE_SCAN_RSP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaec6344359499fd3545334abb07a4a741"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gaec6344359499fd3545334abb07a4a741"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gad708ab7e79f997f3f888bdaec280c309"><param name="Name" value="TYPE_SERVICE_SOLICITATION128"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gad708ab7e79f997f3f888bdaec280c309"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gad708ab7e79f997f3f888bdaec280c309"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gacf6bf77e07f7a0424b42d723bfa3f606"><param name="Name" value="TYPE_SERVICE_SOLICITATION16"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gacf6bf77e07f7a0424b42d723bfa3f606"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gacf6bf77e07f7a0424b42d723bfa3f606"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga3448f6313f81115dae99f3b12b8c109e"><param name="Name" value="TYPE_SERVICEDATA"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga3448f6313f81115dae99f3b12b8c109e"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga3448f6313f81115dae99f3b12b8c109e"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac094872c3935b30df9b3e5f53c8bb537"><param name="Name" value="TYPE_TRANSMITPOWER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac094872c3935b30df9b3e5f53c8bb537"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac094872c3935b30df9b3e5f53c8bb537"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga142bb4577abfd0026a186bcc6e324dfc"><param name="Name" value="TYPE_UUID128"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga142bb4577abfd0026a186bcc6e324dfc"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga142bb4577abfd0026a186bcc6e324dfc"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac3ea3b10ca0808e1d6fd82b2774c57e4"><param name="Name" value="TYPE_UUID128_INC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac3ea3b10ca0808e1d6fd82b2774c57e4"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gac3ea3b10ca0808e1d6fd82b2774c57e4"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga2384300adfa21e9ab50ae3b014a56ae5"><param name="Name" value="TYPE_UUID16"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga2384300adfa21e9ab50ae3b014a56ae5"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga2384300adfa21e9ab50ae3b014a56ae5"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gad98eaf47fef05d63cc326adf4c384ade"><param name="Name" value="TYPE_UUID16_INC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gad98eaf47fef05d63cc326adf4c384ade"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gad98eaf47fef05d63cc326adf4c384ade"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga496a9f209d5b4e4516bcba3351509624"><param name="Name" value="TYPE_UUID32"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga496a9f209d5b4e4516bcba3351509624"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#ga496a9f209d5b4e4516bcba3351509624"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae07b6571d948f6676a39b56eab5a566b"><param name="Name" value="TYPE_UUID32_INC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae07b6571d948f6676a39b56eab5a566b"><param name="Name" value="adv-observer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00036.html#gae07b6571d948f6676a39b56eab5a566b"><param name="Name" value="observer.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html"><param name="Name" value="UART Driver"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html"><param name="Name" value="uart-driver"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga7913006d03165f965e16014ef223d336"><param name="Name" value="_write"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga6b20d41d6252e9871430c242cb1a56e7"><param name="Name" value="BUFFER_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga46c15c2a9d93258b270562894d66d5d0"><param name="Name" value="LINE_END"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga7859af7e1d2d58c1bc67f781bbfbe818"><param name="Name" value="rx_buffer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#gaa6b728f4c94145f6d553736104fe0c2e"><param name="Name" value="rx_collect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga864405d64cc7c95b302a02e9e2302e39"><param name="Name" value="rx_handler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga020faeb36fd09b681c133f4b2b8e112b"><param name="Name" value="set_rx_handler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga1c0544b06d54b198d8c50f507e399a91"><param name="Name" value="UART0_IRQHandler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga2c7ed0283bd6f2f9d791860d6254ef4f"><param name="Name" value="UART_BAUDRATE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga0c0ca72359ddf28dcd15900dfba19343"><param name="Name" value="uart_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga4a6257f1a34197a51d0b455fe40df895"><param name="Name" value="uart_putchar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga1c0544b06d54b198d8c50f507e399a91"><param name="Name" value="UART0_IRQHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga1c0544b06d54b198d8c50f507e399a91"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga1c0544b06d54b198d8c50f507e399a91"><param name="Name" value="uart_nrf.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga2c7ed0283bd6f2f9d791860d6254ef4f"><param name="Name" value="UART_BAUDRATE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga2c7ed0283bd6f2f9d791860d6254ef4f"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga2c7ed0283bd6f2f9d791860d6254ef4f"><param name="Name" value="uart_nrf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga0c0ca72359ddf28dcd15900dfba19343"><param name="Name" value="uart_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga0c0ca72359ddf28dcd15900dfba19343"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga0c0ca72359ddf28dcd15900dfba19343"><param name="Name" value="uart_nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga0c0ca72359ddf28dcd15900dfba19343"><param name="Name" value="uart_nrf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html"><param name="Name" value="uart_nrf.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html#ga7913006d03165f965e16014ef223d336"><param name="Name" value="_write"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html#ga6b20d41d6252e9871430c242cb1a56e7"><param name="Name" value="BUFFER_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html#ga7859af7e1d2d58c1bc67f781bbfbe818"><param name="Name" value="rx_buffer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html#gaa6b728f4c94145f6d553736104fe0c2e"><param name="Name" value="rx_collect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html#ga864405d64cc7c95b302a02e9e2302e39"><param name="Name" value="rx_handler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html#ga020faeb36fd09b681c133f4b2b8e112b"><param name="Name" value="set_rx_handler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html#ga1c0544b06d54b198d8c50f507e399a91"><param name="Name" value="UART0_IRQHandler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html#ga0c0ca72359ddf28dcd15900dfba19343"><param name="Name" value="uart_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00026.html#ga4a6257f1a34197a51d0b455fe40df895"><param name="Name" value="uart_putchar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00018.html"><param name="Name" value="uart_nrf.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00018.html#ga46c15c2a9d93258b270562894d66d5d0"><param name="Name" value="LINE_END"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00018.html#gaa6b728f4c94145f6d553736104fe0c2e"><param name="Name" value="rx_collect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00018.html#ga020faeb36fd09b681c133f4b2b8e112b"><param name="Name" value="set_rx_handler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00018.html#ga2c7ed0283bd6f2f9d791860d6254ef4f"><param name="Name" value="UART_BAUDRATE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00018.html#ga0c0ca72359ddf28dcd15900dfba19343"><param name="Name" value="uart_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00018.html#ga4a6257f1a34197a51d0b455fe40df895"><param name="Name" value="uart_putchar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga4a6257f1a34197a51d0b455fe40df895"><param name="Name" value="uart_putchar"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga4a6257f1a34197a51d0b455fe40df895"><param name="Name" value="uart-driver"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga4a6257f1a34197a51d0b455fe40df895"><param name="Name" value="uart_nrf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="a00034.html#ga4a6257f1a34197a51d0b455fe40df895"><param name="Name" value="uart_nrf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="a00008.html"><param name="Name" value="Usage of this program"></OBJECT>
+</UL>
+</BODY>
+</HTML>

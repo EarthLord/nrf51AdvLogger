@@ -1,0 +1,42 @@
+.PHONY: clean html pdf
+
+doc_dir	:= .
+dot_dir  := ../src
+pic_dir	:= ./pics
+
+dot_src = main-flow.dot uart-handler-flow.dot 
+	  scan-window-flow.dot
+
+vpath %.dot $(dot_dir)
+
+dot_svg = $(addprefix $(pic_dir)/, $(dot_src:.dot=.svg))
+
+html: init dot doxygen
+
+pdf: doclatex = YES
+pdf: init doxygen
+	gmake -C latex refman.pdf
+
+init:
+	@echo "> Scanning files"
+
+# This target requires and graphviz and doxygen
+dot: $(dot_svg)
+
+$(pic_dir)/%.svg: %.dot
+	@dot -Tsvg -o $@ $<
+
+doxygen:
+	@doxygen Doxyfile
+	@echo "Done, errorlog follows:"
+	@echo ""
+	@cat "doxygen.log"
+
+clean:
+	@echo "> Cleaning Documentation"
+	@$(RM) -r "$(doc_dir)/html"
+	@$(RM) -r "$(doc_dir)/rtf"
+	@$(RM) -r "$(doc_dir)/latex"
+	@$(RM) -r "doxygen.log"
+	@echo " done."
+

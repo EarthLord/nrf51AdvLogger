@@ -1,0 +1,143 @@
+/**
+\mainpage BLE Advertisement Observer 
+
+Overview
+========
+
+Bluetooth Low Energy (BLE) Advertisement Sniffer is a nrf51822 System on Chip (SoC) based system which can 
+sniff advertisement packets of nearby BLE devices and print their information through the serial port. All the development 
+done in this project is BSD Clause-3 licenced.
+
+Go to <a href="modules.html"><b>Modules</b></a> to find the documentation of the peripheral drivers used and the observer unit. 
+The <a href="files.html"><b>Files</b></a> section provides an overview of the file structure and a list of parameters used. 
+The [To Do List](@ref todo) provides the list of improvements and short-comings in this implementation.   
+
+This manual is divided in the following sections:
+- \subpage ble_adv_scan
+- \subpage software_arch 
+- \subpage dev_setup
+- \subpage usage
+*/
+
+/**
+\page ble_adv_scan Scanning BLE Advertisements
+According to the Bluetooth 4.0 Core specifications, an advertisement event consists of a advertising device periodically send
+advertisement packets in advertisement events. The interval of these advertising events can range from 20 ms to 10 s. In each 
+of these advertising events an advertiser sends an advertising packet in each channel in an interval of 10 ms starting with 
+channel 37. The objective of a BLE advertisement scanner would be to be able to receive the packets from at least one channel 
+in an advertisement event, while saving power. To achieve this trade of the radio duty cycles between receiving and disabled 
+state, while being in the next advertising channel every time it is on. The total time of this periodic event is known as the 
+`Scan Interval`, while the time the radio is on is known as `Scan Window`. The image (Ref: <a href="https://devzone.nordicsemi.
+com/index.php/what-is-the-minimum-time-for-a-app-and-a-peripheral-to-create-a-connection">Nordic Developer Zone</a>) below 
+depicts this process.
+![Scanning BLE Advertisements](@ref AdvScanBLE.jpg)
+*/
+/**
+\page software_arch Software Architecture
+
+The following flow charts explain the execution of the program.
+
+Main Function
+-------------
+
+Starting with the flow chart of the main function after reset. Note that the radio is initiate to continuously receive 
+packet once started while measuring the Received Signal Strength (RSSI).
+![Main function flowchart](@ref dot_inline_dotgraph_1.png)
+______
+UART String Receive Handler
+---------------------------
+The UART String Receive handler which gets a string sent to the SoC through an unsigned character pointer checks if the string 
+is either `START` or `STOP` so that the scanning of the advertisements can be started or stopped respectively. 
+![UART String Receive Handler flowchart](@ref dot_inline_dotgraph_3.png)
+______
+Scan Interval Timer Handler
+---------------------------
+The scan interval timer is a repetitive timer with an interval equal to the scan interval. At the beginning of the scan 
+interval this function performs 5 different tasks as shown below.
+![Scan Interval Timer Handler flowchart](@ref dot_inline_dotgraph_2.png)
+______
+Scan Window Timer Handler
+---------------------------
+The scan window timer is a single shot timer with an interval equal to the scan window. At the end of the scan window this 
+function performs 3 different tasks as shown below.
+![Scan Window Timer Handler flowchart](@ref dot_inline_dotgraph_4.png)
+______
+Radio Interrupt Routine
+---------------------------
+The radio peripheral is configured such that the end of a packet and the end of Received Signal Strength (RSSI) measurement 
+trigger the interrupt. At the end of a packet, it is collected if there is space in the buffer. At the end of the RSSI 
+measurement the RSSI value is stored. 
+![Radio Interrupt Routine flowchart](@ref dot_inline_dotgraph_5.png)
+*/
+
+/**
+\page dev_setup Development Setup
+
+Software
+--------
+
+This program was developed using Eclipse IDE for C/C++ Developers and compiled using GNU-GCC ARM Toolchain Version 4.8.3. 
+The operating system used is Ubuntu 14.04. To progam and debug the code J-Link ARM Version 4.78g was used. For documentation
+Doxygen version 1.8.6 was used to produce the html pages and pdf through latex files describing the project and Graphviz 
+version 2.36.0 was used to produce the flowcharts to describe the architecure of the software developed. All the softwares 
+used are Open Source except for the JLink debugger. Cleaning, compiling and programming the code is possible from Eclipse 
+as well as from terminal. From the terminal the various commands that the makefile accepts are
+
+Command       			| Action
+-----------------------	| -------------
+make clean  			| Delete all binary and object files 
+make all	  			| Compile the code, link and create binary files 
+make erase-all			| Erase the contents of Flash memory in SoC 
+make upload			 	| Upload the compiled binary to the SoC
+make upload-softdevice	| Upload the Nordic softdevice to the SoC
+
+`make upload-softdevice` will need a minor modifications in the makefile to change the linker script, specify the location of 
+uploading the user's application and specifying the location where the softdevice binary is located. 
+
+Hardware
+--------
+This program has been developed on the PCA10000 board, which is available in the nrf51822 Development and Evaluation kit. 
+PCA10000 is in the form of a USB dongle. It has an in-built JLink-Lite Cortex-M debugger and programmer. 
+The serial port of the nrf51822 SoC is connected to the USB to UART converter present in the debugger, 
+which would give the ability for the connected computer to communicate through its serial port. The USB to UART converter 
+uses Hardware Flow Control (HWFC), so the HWFC is enabled for the UART peripheral. The dongle also has a Red-Green-Blue 
+RGB Light Emitting Diode (LED) connected to three General Purpose Input-Output (GPIO) pins of the SoC.  
+![PCA10000 - a nrf51822 based USB dongle](@ref dongle-PCA10000.jpg)
+
+A side effect of this is that a software must be used on the computer which can also use HWFC. This program has been tested 
+with 'Cutecom' on Ubuntu 14.04, which can be installed with the command `sudo apt-get install cutecom` in terminal. 
+*/
+/**
+\page usage Usage of this program
+
+\subpage dev_setup describes the compiling the code, generating the binary and uploading it to the SoC. After this is done 
+one can start using the Observer. There are two commands available for the Observer, which start and stop the observation 
+for advertisement packets. The commands to the Observer can be sent through the serial port. One must make sure that all 
+messages are teminated by a 'end line' character which is of ASCII value `0x0A` commonly denoted as `\n`.
+ 
+Initiate
+----------
+Send a serial message of `START` to begin the Observer. The red LED should start blinking showing that 
+the Observer is sniffing. Also the serial port of the computer will receive messages about the packets sniffed. 
+
+
+> Note: If after initiating, a HWFC enabled serial port isn't connected to the UART peripheral the program will stop working 
+> since messages need to be sent and the HWFC isn't receiving permission from Clear To Send (CTS) pin. If this happens send a `STOP` command 
+> followed by a `START` command.  
+
+Terminate
+--------- 
+Send a serial message of `STOP` to stop the Observer. 
+The red LED should stop blinking showing that the Observer has stopped sniffing.
+
+Porting
+-------
+For this project to work optimally these are the requirements of the hardware unit of nrf51822, apart from the usual 
+requirements such as power, antenna and access to SWD port:
+- There must be a 16 MHz HF crystal connected
+- There must a computer's serial port connected to the UART peripheral
+  + Without modification, this program will only work with a Hardware Flow Control (HWFC) enabled serial port. If not 
+  available, make @ref HWFC false in @ref board.h. The UART pin numbers can also be changed as appropriate in @ref board.h.
+- A LED connected to one of the GPIO. As the red LED is used in this program, provide the appropriate pin number to @ref 
+LED_RGB_RED.
+*/

@@ -1,5 +1,0 @@
-digraph g { 
-   "Initiation of the peripherals used\nHF and LF clock"->"Print the welcome message";
-   "Print the welcome message"->"Set the UART receive handler";
-   "Set the UART receive handler"->"Sleep and wait for interrupt";
-} 

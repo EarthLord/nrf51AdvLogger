@@ -1,0 +1,24 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.d
+
+# Executables
+*.out
+*.hex
+*.bin
+
+# JLink files
+*.log
+*.jlink
+*.map
+*.*~
+
+#Documentation
+doc/html/*
